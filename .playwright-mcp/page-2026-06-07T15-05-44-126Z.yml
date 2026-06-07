@@ -1,0 +1,240 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - img [ref=e6]
+        - heading "Pinnacle Montessori of St. Paul, 2931 Parker Rd, Wylie, TX 75098" [level=1] [ref=e8]
+      - generic [ref=e9]:
+        - img [ref=e10]
+        - heading "972-455-8230" [level=2] [ref=e12]:
+          - link "972-455-8230" [ref=e13] [cursor=pointer]:
+            - /url: tel:9724558230
+    - generic [ref=e15]:
+      - link "School Logo Image of Pinnacle Montessori of St Paul, Wylie, Texas" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "School Logo Image of Pinnacle Montessori of St Paul, Wylie, Texas" [ref=e18]
+      - generic [ref=e19]:
+        - link "STUDENT SIGN UP" [ref=e20] [cursor=pointer]:
+          - /url: /student-registration
+        - link "CALL US" [ref=e21] [cursor=pointer]:
+          - /url: tel:9724558230
+        - link "SCHEDULE A TOUR" [ref=e22] [cursor=pointer]:
+          - /url: /schedule-a-tour
+        - link "360 VIRTUAL TOUR" [ref=e23] [cursor=pointer]:
+          - /url: /virtual-tour-360
+    - navigation [ref=e24]:
+      - generic [ref=e25]:
+        - link "HOME" [ref=e26] [cursor=pointer]:
+          - /url: /
+        - button "ABOUT US" [ref=e28]:
+          - text: ABOUT US
+          - img [ref=e29]
+        - button "OUR PROGRAMS" [ref=e32]:
+          - text: OUR PROGRAMS
+          - img [ref=e33]
+        - link "CURRICULUM" [ref=e35] [cursor=pointer]:
+          - /url: /curriculum
+        - button "PARENT INFO" [ref=e37]:
+          - text: PARENT INFO
+          - img [ref=e38]
+        - link "GALLERY" [ref=e40] [cursor=pointer]:
+          - /url: /gallery
+        - link "BLOG" [ref=e41] [cursor=pointer]:
+          - /url: https://www.pinnaclemontessori.com/blog/
+        - link "SHOP" [ref=e42] [cursor=pointer]:
+          - /url: https://pinnaclemontessoristore.com/
+        - link "CAREERS" [ref=e43] [cursor=pointer]:
+          - /url: /careers
+        - link "FEEDBACK" [ref=e44] [cursor=pointer]:
+          - /url: /send-feedback
+        - link "CONTACT US" [ref=e45] [cursor=pointer]:
+          - /url: /contact-us
+    - generic [ref=e46]:
+      - img "Image of Pinnacle Montessori of St. Paul | Wylie Montessori School | Montessori Childcare in Wylie Texas" [ref=e47]
+      - paragraph [ref=e49]: Providing the Best Training and Values
+    - generic [ref=e50]:
+      - img "Slideshow Image" [ref=e52]
+      - generic [ref=e53]:
+        - paragraph [ref=e54]: WELCOME TO PINNACLE MONTESSORI OF ST. PAUL IN WYLIE, TEXAS!
+        - paragraph [ref=e55]: Discover a nurturing haven for your little ones at our Wylie Day Care School, where safety and cultural respect form the heart of our community.
+        - generic [ref=e56]:
+          - paragraph [ref=e57]: ✅ Perfect for busy parents seeking a secure, all-day nurturing environment!
+          - paragraph [ref=e58]: ✅ We Offer Exclusive Live Classroom Video Monitoring!
+        - paragraph [ref=e59]: "WITH US YOUR PRECIOUS LITTLE ONE WILL FIND:"
+        - list [ref=e60]:
+          - listitem [ref=e61]: All-day care with a safe, secure & loving environment
+          - listitem [ref=e62]: Culturally diverse curriculum promoting inclusivity
+          - listitem [ref=e63]: Warm, experienced staff dedicated to fostering growth
+          - listitem [ref=e64]: Engaging activities designed to spark curiosity and learning
+        - paragraph [ref=e65]: JOIN OUR FAMILY, WHERE EVERY CHILD IS CHERISHED AND CELEBRATED 💖
+        - generic [ref=e66]:
+          - heading "ENROLLMENTS OPEN FOR 2025" [level=1] [ref=e67]
+          - generic [ref=e68]:
+            - paragraph [ref=e69]:
+              - link "For More Information Call Us" [ref=e70] [cursor=pointer]:
+                - /url: tel:9724558230
+            - paragraph [ref=e71]:
+              - link "📞 972.455.8230" [ref=e72] [cursor=pointer]:
+                - /url: tel:9724558230
+            - paragraph [ref=e73]: Or Signup Below
+          - link "SIGNUP NOW" [ref=e75] [cursor=pointer]:
+            - /url: /student-registration
+    - generic [ref=e76]:
+      - generic [ref=e77]:
+        - heading "OUR EXCLUSIVE LIVE CLASSROOM VIDEO MONITORING" [level=3] [ref=e78]
+        - generic [ref=e79]:
+          - heading "REASSURANCE:" [level=3] [ref=e80]
+          - paragraph [ref=e81]: Discover the joy of seeing your child's daily adventures in activities, making friends, and developing skills through vivid visual experiences.
+        - generic [ref=e82]:
+          - heading "REINFORCEMENT:" [level=3] [ref=e83]
+          - paragraph [ref=e84]: Pre-schoolers adore the spotlight! Keeping up with daily activities on your adventures together is a wonderful way to dive into your little one's expanding world of learning.
+      - iframe [ref=e86]:
+        - generic [ref=f13e6]:
+          - generic [ref=f13e7]: ERROR 404 - PAGE NOT FOUND
+          - generic [ref=f13e9]:
+            - heading "Why am I seeing this page?" [level=3] [ref=f13e11]:
+              - link "Why am I seeing this page?" [ref=f13e12] [cursor=pointer]:
+                - /url: "#"
+            - heading "How to find the correct spelling and folder" [level=3] [ref=f13e14]:
+              - link "How to find the correct spelling and folder" [ref=f13e15] [cursor=pointer]:
+                - /url: "#"
+            - heading "404 Errors After Clicking WordPress Links" [level=3] [ref=f13e17]:
+              - link "404 Errors After Clicking WordPress Links" [ref=f13e18] [cursor=pointer]:
+                - /url: "#"
+            - heading "How to modify your .htaccess file" [level=3] [ref=f13e20]:
+              - link "How to modify your .htaccess file" [ref=f13e21] [cursor=pointer]:
+                - /url: "#"
+    - generic [ref=e88]:
+      - heading "Our Programs" [level=3] [ref=e89]
+      - generic [ref=e90]:
+        - link "Infants program Infants 6 weeks - 13 months The program focuses on specific aspects of learning such as non-verbal communication, gross motor skills, and socialization." [ref=e91] [cursor=pointer]:
+          - /url: /programs/infant-programs
+          - img "Infants program" [ref=e93]
+          - paragraph [ref=e95]: Infants
+          - paragraph [ref=e97]: 6 weeks - 13 months
+          - paragraph [ref=e99]: The program focuses on specific aspects of learning such as non-verbal communication, gross motor skills, and socialization.
+        - link "Toddlers program Toddlers 13 months - 17 months The Toddler program helps to promote independence and cultivate each child's unique character." [ref=e100] [cursor=pointer]:
+          - /url: /programs/toddler-programs
+          - img "Toddlers program" [ref=e102]
+          - paragraph [ref=e104]: Toddlers
+          - paragraph [ref=e106]: 13 months - 17 months
+          - paragraph [ref=e108]: The Toddler program helps to promote independence and cultivate each child's unique character.
+        - link "Pre Primary program Pre Primary 18 months - 38 months The Preprimary program allows children the opportunity to explore and develop their language skills by expanding their growing vocabulary." [ref=e109] [cursor=pointer]:
+          - /url: /programs/pre-primary-programs
+          - img "Pre Primary program" [ref=e111]
+          - paragraph [ref=e113]: Pre Primary
+          - paragraph [ref=e115]: 18 months - 38 months
+          - paragraph [ref=e117]: The Preprimary program allows children the opportunity to explore and develop their language skills by expanding their growing vocabulary.
+        - link "Primary program Primary 3 - 6 years This environment blends practical life and sensorial activities with social and academic skills." [ref=e118] [cursor=pointer]:
+          - /url: /programs/primary-programs
+          - img "Primary program" [ref=e120]
+          - paragraph [ref=e122]: Primary
+          - paragraph [ref=e124]: 3 - 6 years
+          - paragraph [ref=e126]: This environment blends practical life and sensorial activities with social and academic skills.
+        - link "Lower Elementary program Lower Elementary 6 - 9 years The program encourages the children to function at their full potential regardless of their age or grade level." [ref=e127] [cursor=pointer]:
+          - /url: /programs/lower-elementary-programs
+          - img "Lower Elementary program" [ref=e129]
+          - paragraph [ref=e131]: Lower Elementary
+          - paragraph [ref=e133]: 6 - 9 years
+          - paragraph [ref=e135]: The program encourages the children to function at their full potential regardless of their age or grade level.
+        - link "Summer Camp program Summer Camp Our summer sessions have been designed by experts who care about developing a respectful, peaceful, and nurturing environment for the kids." [ref=e136] [cursor=pointer]:
+          - /url: /programs/summer-camp
+          - img "Summer Camp program" [ref=e138]
+          - paragraph [ref=e140]: Summer Camp
+          - paragraph [ref=e142]: Our summer sessions have been designed by experts who care about developing a respectful, peaceful, and nurturing environment for the kids.
+        - link "Before After School program Before After School The program encourages the children to function at their full potential regardless of their age or grade level." [ref=e143] [cursor=pointer]:
+          - /url: /programs/before-after-school
+          - img "Before After School program" [ref=e145]
+          - paragraph [ref=e147]: Before After School
+          - paragraph [ref=e149]: The program encourages the children to function at their full potential regardless of their age or grade level.
+    - generic [ref=e151]:
+      - generic [ref=e152]:
+        - heading "Pinnacle Montessori of St. Paul" [level=3] [ref=e153]
+        - paragraph [ref=e154]: "We are conveniently located at:"
+        - heading "2931 Parker Rd, Wylie, TX 75098" [level=3] [ref=e155]
+        - generic [ref=e156]:
+          - heading "Email:" [level=3] [ref=e157]
+          - generic [ref=e158]:
+            - link "pmastpaul@pinnaclemontessori.com" [ref=e160] [cursor=pointer]:
+              - /url: mailto:pmastpaul@pinnaclemontessori.com
+            - link "stpaul@pinnaclemontessori.com" [ref=e162] [cursor=pointer]:
+              - /url: mailto:stpaul@pinnaclemontessori.com
+        - 'heading "Call Us: 972.455.8230" [level=3] [ref=e163]':
+          - text: "Call Us:"
+          - link "972.455.8230" [ref=e164] [cursor=pointer]:
+            - /url: tel:9724558230
+        - generic [ref=e165]:
+          - heading "Follow Us:" [level=3] [ref=e166]
+          - generic [ref=e167]:
+            - link "Facebook" [ref=e168] [cursor=pointer]:
+              - /url: https://www.facebook.com/pmastpaul
+            - generic [ref=e169]: "||"
+            - link "YouTube" [ref=e170] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCdPaSxluO3BbUFy2RDZ_XLA
+      - iframe [ref=e172]:
+        
+    - generic [ref=e173]:
+      - generic [ref=e175]:
+        - generic [ref=e176]:
+          - paragraph [ref=e177]: Pinnacle Montessori of St. Paul
+          - paragraph [ref=e178]: "Address:"
+          - paragraph [ref=e179]: 2931 Parker Rd,
+          - paragraph [ref=e180]: Wylie, TX 75098
+          - paragraph [ref=e181]: "Hours: Mon-Fri 6:30am-6:30pm"
+          - paragraph [ref=e182]:
+            - text: "Call Us:"
+            - link "972.455.8230" [ref=e183] [cursor=pointer]:
+              - /url: tel:9724558230
+          - generic [ref=e184]:
+            - link "Facebook" [ref=e185] [cursor=pointer]:
+              - /url: https://www.facebook.com/pmastpaul
+              - img [ref=e186]
+            - link "Twitter / X" [ref=e188] [cursor=pointer]:
+              - /url: https://twitter.com/PinnacleMonte
+              - img [ref=e189]
+        - generic [ref=e191]:
+          - paragraph [ref=e192]: Corporate Office
+          - paragraph [ref=e193]: "Address:"
+          - paragraph [ref=e194]: 811 S Central Expressway, Suite#306
+          - paragraph [ref=e195]: Richardson, TX 75080
+          - paragraph [ref=e196]: "Hours: Mon-Fri 6:30am-6:30pm"
+          - paragraph [ref=e197]:
+            - text: "Call Us:"
+            - link "1-866-333-68670" [ref=e198] [cursor=pointer]:
+              - /url: tel:18663336867
+        - generic [ref=e199]:
+          - paragraph [ref=e200]: Quick Links
+          - list [ref=e201]:
+            - listitem [ref=e202]:
+              - img [ref=e203]
+              - link "Shop" [ref=e205] [cursor=pointer]:
+                - /url: https://pinnaclemontessoristore.com/
+            - listitem [ref=e206]:
+              - img [ref=e207]
+              - link "Careers" [ref=e209] [cursor=pointer]:
+                - /url: https://pinnaclemontessori.com/main/careers/
+            - listitem [ref=e210]:
+              - img [ref=e211]
+              - link "Daycare" [ref=e213] [cursor=pointer]:
+                - /url: https://pinnaclemontessori.com/main/our-programs/daycare/
+            - listitem [ref=e214]:
+              - img [ref=e215]
+              - link "Child Care" [ref=e217] [cursor=pointer]:
+                - /url: https://pinnaclemontessori.com/main/our-programs/childcare/
+            - listitem [ref=e218]:
+              - img [ref=e219]
+              - link "Preschool" [ref=e221] [cursor=pointer]:
+                - /url: https://pinnaclemontessori.com/main/our-programs/preschool-in-frisco/
+            - listitem [ref=e222]:
+              - img [ref=e223]
+              - link "Employee Login" [ref=e225] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e226]:
+              - img [ref=e227]
+              - link "Pinnacle Franchise" [ref=e229] [cursor=pointer]:
+                - /url: http://www.franchise.pinnaclemontessori.com/
+          - img "Image of Franchise Connect Top 100" [ref=e231]
+      - paragraph [ref=e234]: The Pinnacle Montessori School is committed to ensuring that its services are provided in a non-discriminatory manner without regard to race, color, religious creed, disability, handicap, ancestry, national origin, age, sex, or limited English proficiency.
+  - button "Open Next.js Dev Tools" [ref=e240] [cursor=pointer]:
+    - img [ref=e241]
+  - alert [ref=e244]

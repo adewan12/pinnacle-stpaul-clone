@@ -1,0 +1,8 @@
+[     294ms] [WARNING] Unrecognized feature: 'vr'. @ https://pinnaclemontessoristpaul.com/:29
+[     295ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://pinnaclemontessoristpaul.com/:29
+[     416ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.pinnaclemontessori360.com/stpaul/:0
+[     419ms] [ERROR] Mixed Content: The page at 'https://pinnaclemontessoristpaul.com/' was loaded over HTTPS, but requested an insecure script 'http://code.jquery.com/jquery-3.3.1.min.js'. This request has been blocked; the content must be served over HTTPS. @ https://www.pinnaclemontessori360.com/stpaul/:0
+[     440ms] ReferenceError: jQuery is not defined
+    at https://www.pinnaclemontessori360.com/cgi-sys/js/simple-expand.min.js:4:2601
+[     440ms] ReferenceError: $ is not defined
+    at https://www.pinnaclemontessori360.com/stpaul/:160:9
