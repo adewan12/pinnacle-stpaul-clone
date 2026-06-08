@@ -11,6 +11,7 @@ import Footer from "@/components/Footer";
 export default function Home() {
   return (
     <main>
+      <img src="/promo-banner.jpg" alt="Enroll Now - $500 off tuition" className="w-full" />
       <TopInfoBar />
       <HeaderCTA />
       <Navigation />
